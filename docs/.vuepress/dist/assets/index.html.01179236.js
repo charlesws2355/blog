@@ -1,0 +1,1 @@
+import{_ as a,o,c as l,a as e,b as t}from"../app.2ae5f5db.mjs";const c={},r=e("h1",{id:"hello-charles-blog",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hello-charles-blog","aria-hidden":"true"},"#"),t(" Hello Charles blog")],-1),s=[r];function n(_,d){return o(),l("div",null,s)}const i=a(c,[["render",n],["__file","index.html.vue"]]);export{i as default};

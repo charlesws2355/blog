@@ -1,7 +1,7 @@
 import { defaultTheme } from '@vuepress/theme-default';
 
 module.exports = {
-  base: '/blog/',
+  base: '/',
   locales: {
     '/': {
       lang: 'zh-CN',

@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as r,b as e,d as s}from"../app.963833b9.mjs";const c={},d=e("h1",{id:"sidebar",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sidebar","aria-hidden":"true"},"#"),s(" Sidebar")],-1),n=[d];function o(i,_){return t(),r("div",null,n)}const l=a(c,[["render",o],["__file","index.html.vue"]]);export{l as default};

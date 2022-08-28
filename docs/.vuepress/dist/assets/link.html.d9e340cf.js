@@ -1,1 +1,0 @@
-import{_ as t,o as n,c as a,b as e,d as c}from"../app.963833b9.mjs";const o={},r=e("h1",{id:"link",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#link","aria-hidden":"true"},"#"),c(" link")],-1),s=[r];function i(_,l){return n(),a("div",null,s)}const h=t(o,[["render",i],["__file","link.html.vue"]]);export{h as default};

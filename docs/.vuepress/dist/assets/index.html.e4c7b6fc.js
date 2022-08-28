@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as n,b as e,d as c}from"../app.963833b9.mjs";const o={},r=e("h1",{id:"github-en",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#github-en","aria-hidden":"true"},"#"),c(" Github(EN)")],-1),s=[r];function d(i,_){return a(),n("div",null,s)}const l=t(o,[["render",d],["__file","index.html.vue"]]);export{l as default};

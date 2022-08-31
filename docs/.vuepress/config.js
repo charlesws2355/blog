@@ -44,6 +44,11 @@ module.exports = {
         link: '/sidebar',
         children: ['/sidebar', '/html/html1.md', '/html/html2.md'],
       },
+      {
+        text: '三方库',
+        link: '/lib',
+        children: ['/lib/vue-router.md'],
+      },
     ],
     themePlugins: {
       nprogress: false,
